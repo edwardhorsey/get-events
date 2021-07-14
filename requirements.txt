@@ -1,0 +1,4 @@
+wheel
+scrapy==2.5.0
+simplejson==3.17.2
+pytest
